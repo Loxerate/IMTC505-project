@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   identifier: SampleData
   buildKey: b10936b52578156469ea4ba51032a93b
-  groupID: 
+  groupID: e55cd4d2-735b-4727-84d3-1baff722dcd1
   boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
     type: 3}
   stateChanged: 0
